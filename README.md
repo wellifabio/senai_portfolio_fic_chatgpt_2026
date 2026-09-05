@@ -1,0 +1,1 @@
+# senai_portfolio_fic_chatgpt_2026
