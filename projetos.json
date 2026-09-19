@@ -103,9 +103,14 @@
             "portfolio": "https://marynaclemente-ai.github.io/Portif-lio-da-Mari"
         },
         {
-            "aluno":"Julio Cesar de Souza",
-            "github":"https://github.com/jcsjulio",
-            "portfolio":"https://jcsjulio.github.io"
+            "aluno": "Julio Cesar de Souza",
+            "github": "https://github.com/jcsjulio",
+            "portfolio": "https://jcsjulio.github.io"
+        },
+        {
+            "aluno": "Prof. Wellington",
+            "github": "https://github.com/wellifabio",
+            "portfolio": "https://wellifabio.github.io"
         }
     ]
 }
