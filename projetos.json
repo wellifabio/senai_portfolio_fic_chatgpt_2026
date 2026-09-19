@@ -24,6 +24,11 @@
             "id": 5,
             "projeto": "Agenda de pesquisa de enderecos com ViaCEP",
             "link": "https://wellifabio.github.io/senai_chatgpt_agenda_viacep_2026/"
+        },
+        {
+            "id": 6,
+            "projeto": "CratBot com GEMINI",
+            "link": "https://wellifabio.github.io/chatbot_gemini_eu_prof_2026/"
         }
     ],
     "desafios": [
