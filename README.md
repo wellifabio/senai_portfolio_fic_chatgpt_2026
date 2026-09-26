@@ -8,9 +8,6 @@ Portfolio criado no curso Inteligências Artificiais Generativas aplicadas a Pro
 - Copilot
 - HTML, CSS, JavaScript, JSON
 
-## Screenshot
-![Screenshot](./screenshot.png)
-
 ## Passos para a criação com auxilio da IA Copilot dentro do VsCode
 Criada uma pasta com os arquivos index.html, style.css e script.js vazios e um arquivo base `projetos.json` contendo o seguinte:
 ```json
